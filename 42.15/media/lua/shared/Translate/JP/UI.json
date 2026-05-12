@@ -1,0 +1,6 @@
+{
+    "UI_AFFW_ModName": "Auto Fast Forward Walk To",
+    "UI_AFFW_SpeedLabel": "早送り速度",
+    "UI_AFFW_SpeedTooltip": "Walk To 中の速度レベル",
+    "UI_AFFW_Disabled": "無効"
+}

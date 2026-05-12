@@ -1,0 +1,6 @@
+{
+    "UI_AFFW_ModName": "Auto Fast Forward Walk To",
+    "UI_AFFW_SpeedLabel": "빨리 감기 속도",
+    "UI_AFFW_SpeedTooltip": "Walk To 중 속도 수준",
+    "UI_AFFW_Disabled": "비활성화"
+}

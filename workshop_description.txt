@@ -1,0 +1,26 @@
+Auto Fast Forward Walk To
+
+Automatically enables fast forward while your character walks to a destination.
+
+How it works:
+- Automatically speeds up (default: 2x) whenever your character walks to a destination
+- This includes the Walk To keybind (default gameshortcut: Y or Z), but also right-click
+  interactions that require your character to walk somewhere first (looting, opening doors, etc.)
+- Speed resets to 1x when you arrive, encounter danger, or press WASD
+- Clicking a new destination mid-walk keeps the fast forward active
+
+Settings (Mod Options):
+- Disabled — mod off
+- >> — fast forward (default)
+- >>> — faster forward
+- >>>> — fastest forward
+
+Compatibility:
+- Singleplayer only
+- Requires Build 42.15 or later
+
+---
+More mods: Pass Through Window (https://steamcommunity.com/sharedfiles/filedetails/?id=3698600535)
+
+Workshop ID: 3700497455
+Mod ID: AutoFFWalkTo

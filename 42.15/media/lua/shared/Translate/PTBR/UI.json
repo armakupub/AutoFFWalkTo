@@ -1,0 +1,6 @@
+{
+    "UI_AFFW_ModName": "Auto Fast Forward Walk To",
+    "UI_AFFW_SpeedLabel": "Velocidade de avanço rápido",
+    "UI_AFFW_SpeedTooltip": "Nível de velocidade durante Walk To",
+    "UI_AFFW_Disabled": "Desativado"
+}

@@ -1,0 +1,6 @@
+name=Auto Fast Forward Walk To
+author=Armaku
+poster=poster.png
+id=AutoFFWalkTo
+description=Automatically enables fast forward when using Walk To. Speed resets on arrival, danger, or manual input.
+versionMin=42.15.0
